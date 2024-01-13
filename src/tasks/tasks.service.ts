@@ -10,13 +10,13 @@ export class TasksService {
     {
       id: '7e754a31-e0bf-4e7a-8305-cfdbab38836f',
       title: 'What is NestJs',
-      description: 'what is NestJs',
+      description: 'what is NestJs?',
       status: TaskStatus.OPEN
     },
     {
       id: 'cf7677e8-b012-49a2-a96d-fa0bd1a6ab4c',
       title: 'What is React',
-      description: 'What is React',
+      description: 'What is React?',
       status: TaskStatus.IN_PROGRESS
     }
   ];
